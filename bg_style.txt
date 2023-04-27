@@ -1,0 +1,12 @@
+import React from 'react';
+
+export default function App() {
+  return (
+    <>
+      <span className="square border"></span>
+      <span className="square border border-white"></span>
+      <span className="square border border-2"></span>
+    </>
+  );
+}
+
